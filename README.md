@@ -1,4 +1,19 @@
-### Hi there 👋
+### About
+- Software engineer
+
+### Tech skills used professionally 
+```
+- Javascript   ⭐⭐⭐
+- SQL          ⭐⭐⭐
+- Golang       ⭐⭐⭐
+- AWS          ⭐⭐⭐
+- React        ⭐⭐⭐
+- PHP          ⭐⭐⭐
+- HTML/CSS     ⭐⭐⭐
+- Docker       ⭐⭐
+- Angular      ⭐
+- Python       ⭐    
+```
 
 <!--
 **migolo/migolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
