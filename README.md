@@ -16,10 +16,15 @@
 ```
 
 ### Sites
+
 https://www.migolo.net
+
 https://blog.migolo.net
+
 https://twitter.com/migolo
+
 https://www.linkedin.com/in/migolo/
+
 https://www.instagram.com/migolo10/
 
 <!--
